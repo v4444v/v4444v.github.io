@@ -1,165 +1,165 @@
 {
   "instances": [
-    {
+	{
       "app": "Piped",
       "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://pipedapi.kavin.rocks"
-    },
+	},
 	{
       "app": "Piped",
       "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://pipedapi.tokhmi.xyz/"
-    }
+	},
 	{
       "app": "Piped",
       "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://watchapi.whatever.social"
-    }
+	},
 	{
       "app": "Piped",
       "region": "Europe",
       "country": "GB",
       "flag": "🇬🇧",
       "url": "https://pipedapi.kavin.rocks"
-    },
+	},
 	{
       "app": "Piped",
       "region": "Europe",
       "country": "Finland",
       "flag": "🇫🇮",
       "url": "https://api-piped.mha.fi"
-    },
+	},
 	{
       "app": "Piped",
       "region": "Europe",
       "country": "Finland",
       "flag": "🇫🇮",
       "url": "https://piped-api.garudalinux.org"
-    },
-    {
+	},
+	{
       "app": "Piped",
       "region": "Europe",
       "country": "Germany",
       "flag": "🇩🇪",
       "url": "https://watch.whatever.social/"
-    },
+	},
 	{
       "app": "Piped",
       "region": "Asia",
       "country": "India",
       "flag": "🇮🇳",
       "url": "https://pipedapi.kavin.rocks"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://vid.puffyan.us"
-    },
-    {
+	},
+	{
       "app": "Invidious",
       "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://inv.riverside.rocks"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "North America",
       "country": "Canada",
       "flag": "🇨🇦",
       "url": "https://invidious.sethforprivacy.com"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "North America",
       "country": "Canada",
       "flag": "🇨🇦",
       "url": "https://invidious.sethforprivacy.com"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "Europe",
       "country": "Germany",
       "flag": "🇩🇪",
       "url": "https://y.com.sb"
-    },
-    {
+	},
+	{
       "app": "Invidious",
       "region": "Europe",
       "country": "Germany",
       "flag": "🇩🇪",
       "url": "https://watch.thekitty.zone"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "Europe",
       "country": "Germany",
       "flag": "🇩🇪",
       "url": "https://yt.oelrichsgarcia.de"
-    },
-    {
+	},
+	{
       "app": "Invidious",
       "region": "Europe",
       "country": "Germany",
       "flag": "🇩🇪",
       "url": "https://invidious.tiekoetter.com"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "Europe",
       "country": "Germany",
       "flag": "🇩🇪",
       "url": "https://invidious.nerdvpn.de"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "Europe",
       "country": "GB",
       "flag": "🇬🇧",
       "url": "https://invidious.epicsite.xyz"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "Europe",
       "country": "Poland",
       "flag": "🇵🇱",
       "url": "invidious.baczek.me"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "Asia",
       "country": "India",
       "flag": "🇮🇳",
       "url": "https://invidious.kavin.rocks"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "Asia",
       "country": "Korea",
       "flag": "🇰🇷",
       "url": "https://yt.funami.tech"
-    },
+	},
 	{
       "app": "Invidious",
       "region": "Europe",
       "country": "Netherlands",
       "flag": "🇳🇱",
       "url": "https://yewtu.be"
-    },
-    {
+	},
+	{
       "app": "Invidious",
       "region": "Europe",
       "country": "Romania",
       "flag": "🇷🇴",
       "url": "https://invidious.flokinet.to"
-    },
+	}
     ]
 }
